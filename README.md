@@ -1,7 +1,5 @@
 # Kubernetes Fundamentals
 
-[![Image](https://BuNnYWaJ.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")]
-
 ## Contents
 
 | S.No | Course Contents |
