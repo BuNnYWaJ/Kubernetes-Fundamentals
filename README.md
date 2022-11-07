@@ -1,5 +1,4 @@
 # Kubernetes Fundamentals
-
 ## Contents
 
 | S.No | Course Contents |
